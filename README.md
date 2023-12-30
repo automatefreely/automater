@@ -8,7 +8,7 @@ This app is still in development. So, you may find some bugs. If you find any bu
 
 ### For windows
 
-1. Download [output.zip file](https://drive.google.com/file/d/1NfBc7PyANrzngYLvOcz6oylVcZMlcWzQ/view?usp=sharing).
+1. Download [output.zip file](https://drive.google.com/u/0/uc?id=1NfBc7PyANrzngYLvOcz6oylVcZMlcWzQ).
 3. Go to main.exe from the output folder.
 4. Run the app as you run any general application on windows.
 
