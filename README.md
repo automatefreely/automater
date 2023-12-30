@@ -8,8 +8,7 @@ This app is still in development. So, you may find some bugs. If you find any bu
 
 ### For windows
 
-1. Download or clone this repo.
-2. Unzip the output.zip file.
+1. Download [output.zip file](https://drive.google.com/file/d/1NfBc7PyANrzngYLvOcz6oylVcZMlcWzQ/view?usp=sharing).
 3. Go to main.exe from the output folder.
 4. Run the app as you run any general application on windows.
 
