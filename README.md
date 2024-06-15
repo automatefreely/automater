@@ -4,11 +4,25 @@ This is a desktop app for automating the boring stuffs. You can automate any of 
 
 This app is still in development. So, you may find some bugs. If you find any bug, please report it in the issues section.
 
-## How to run
+## How to setup?
+1. Make sure python and pip are installed and added to path.
+2. Clone the repo
+   ```cmd
+   git clone https://github.com/automatefreely/automater
+   ```
+3. Install dependancy
+   ```cmd
+   python -m pip install requirement.txt
+   ```
+4. Run the app
+   ```cmd
+   python main.py
+   ```
+## How to run?
 
 ### For windows
 
-1. Download [output.zip file](https://drive.google.com/u/0/uc?id=1NfBc7PyANrzngYLvOcz6oylVcZMlcWzQ).
+1. Download [output.zip](https://drive.google.com/u/0/uc?id=1NfBc7PyANrzngYLvOcz6oylVcZMlcWzQ) file.
 3. Go to main.exe from the output folder.
 4. Run the app as you run any general application on windows.
 
@@ -16,9 +30,4 @@ This app is still in development. So, you may find some bugs. If you find any bu
 
 You need to setup the project
 
-## SetUp
 
-1. Make sure python and pip are installed and added to path.
-2. Get the project from github (```git clone https://github.com/automatefreely/automater```) 
-3. ```pip install -r requirements.txt```
-4. ```python main.py```
